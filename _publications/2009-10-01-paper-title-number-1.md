@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1 <br/><img src='/images/Weiming.jpg' data-image-width="1633" data-image-height="400">"
+title: "Paper Title Number 1 <br/><img src='/images/Weiming.jpg' width="1633" height="400">"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
