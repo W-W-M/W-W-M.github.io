@@ -26,7 +26,7 @@ Science and Technology,  Dalian University of Technology, supervised by Prof. Ba
 
 Education
 ======
-1. 2006.09~2010.06  Dalian University of Technology, Bachelor
+1. 2006.09~2010.06  Dalian University of Technology, B.S
 1. 2010.09~2016.06  Dalian University of Technology, PhD
 
 Research Experience
