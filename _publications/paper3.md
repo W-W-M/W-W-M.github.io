@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "2013"
 collection: publications
 permalink: /publication/2010-10-01-paper
 excerpt: "<br/><img src='/images/paper3.png' width='250' height='150' class='float:left'>"
