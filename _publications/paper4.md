@@ -2,7 +2,7 @@
 title: " "
 collection: publications
 permalink: /publication/2010-10-01-paper
-excerpt: "<br/><img src='/images/cost-effective.png' width='500' height='300' class="aligncenter">"
+excerpt: "<br/><img src='/images/2014-1.png' width='250' height='150' class='float:left'>"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/2508363.2508382'
-citation: 'Weiming Wang, Tuanfeng Y.Wang, Zhouwang Yang, Ligang Liu, Weihua Tong, Jiansong Deng, Falai Chen and Xiuping Liu. (2013). &quot;Cost-effective Printing of 3D Objective with Skin-Frame Structures.&quot; <i>ACM Transactions on Graphics (TOG) (Proc. SIGGRAPH Aisa)</i>. 2013, 32(6):1-10.  CCF: A.'
+citation: 'Zheng Liu, Weiming Wang, Xiuping Liu and Ligang Liu. (2014). &quot;Scale-Aware Shape Manipulation.&quot; <i>Journal of Zhejiang University Science C (Computer & Electronics)</i>. 2014, 15(9):764-775.'
 ---
