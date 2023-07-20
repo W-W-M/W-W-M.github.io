@@ -2,10 +2,9 @@
 title: ""
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 excerpt: "<br/><img src='/images/cost-effective.png' width='200' height='200'>"
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2013
+venue: 'ACM Transactions on Graphics (TOG)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 
 'WeimingWang, Tuanfeng Y.Wang, Zhouwang Yang, Ligang Liu, Weihua Tong, Jiansong Deng, Falai Chen and Xiuping Liu
