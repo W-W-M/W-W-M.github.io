@@ -2,7 +2,7 @@
 title: " "
 collection: publications
 permalink: /publication/2010-10-01-paper
-excerpt: "<br/><img src='/images/cost-effective.png' width='500' height='300' class="aligncenter">"
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/2508363.2508382'
-citation: 'Weiming Wang, Tuanfeng Y.Wang, Zhouwang Yang, Ligang Liu, Weihua Tong, Jiansong Deng, Falai Chen and Xiuping Liu. (2013). &quot;Cost-effective Printing of 3D Objective with Skin-Frame Structures.&quot; <i>ACM Transactions on Graphics (TOG) (Proc. SIGGRAPH Aisa)</i>. 2013, 32(6):1-10.  CCF: A.'
+excerpt: "<br/><img src='/images/paper3.png' width='500' height='300' class="aligncenter">"
+paperurl: 'http://www.cqvip.com/qk/97390x/201308/46601544.html'
+citation: 'Weiming Wang, Xiuping Liu, Zhouwang Yang and Ligang Liu. (2013). &quot;网格曲面特征的稀疏性优化检测算法.&quot; <i>Journal of Computer-Aided Design & Computer Graphics</i>. 2013, 25(8):1128-1136.  CCF: T1.'
 ---
