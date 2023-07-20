@@ -1,0 +1,8 @@
+---
+title: "2013"
+collection: publications
+permalink: /publication/2010-10-01-paper
+excerpt: " "
+paperurl: ' '
+citation: ' '
+---
