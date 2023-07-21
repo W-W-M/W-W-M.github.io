@@ -1,5 +1,5 @@
 ---
-title: "wwm"
+title: " "
 collection: talks
 type: "Talk"
 permalink: /talks/talk1
