@@ -1,5 +1,4 @@
 ---
-title: " "
 collection: talks
 type: "Conference"
 permalink: /talks/talk1
