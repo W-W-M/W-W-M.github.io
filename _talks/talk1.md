@@ -1,8 +1,8 @@
 ---
-title: " 222"
+title: " "
 collection: talks
-type: "Talk"
+type: "Conference"
 permalink: /talks/talk1
-venue: "UKdaaf San Francisco, Department of Testing"
-location: "San Francisco, California"
+venue: "2012.11.03-11.07, The 5th CSIAM Geometric Design and Computing of China"
+location: "Guangzhou"
 ---
