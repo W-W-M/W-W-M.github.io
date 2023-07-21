@@ -1,10 +1,9 @@
 ---
-title: " "
+title: "wwm"
 collection: talks
 type: "Talk"
+permalink: /talks/talk1
 venue: "UKdaaf San Francisco, Department of Testing"
-excerpt: "www"
-permalink: /talks/2014-02-01-talk-2
 date: 2014-02-01
 location: "San Francisco, California"
 ---
