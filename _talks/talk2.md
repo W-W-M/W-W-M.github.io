@@ -1,4 +1,5 @@
 ---
+title: " "
 collection: talks
 type: " "
 permalink: /talks/talk1
