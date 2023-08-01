@@ -34,8 +34,9 @@ Research Experience
 1. 2012.03~2014.06 University of Science and Technology of China,   Vistor
 1. 2014.10~2015.10 RWTH Aachen University,                          Visitor
 1. 2016.06~2021.12 Dalian University of Technology,                 Lecturer
-1. 2021.12~now     Dalian University of Technology,                 Associate professor
+1. 2016.07~2020.11 Dalian University of Technology,                 PosDoc
 1. 2018.04~2020.05 Delft University of Technology,                  Leadingfellow postdoc
+1. 2021.12~now     Dalian University of Technology,                 Associate professor
 1. 2022.11~now     The University of Manchester,                    PDRA
 
 Research Interests
