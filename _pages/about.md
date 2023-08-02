@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in School of Mathematical Sciences, Dalian University of Technology,
- and a PDRA in the School of Engineering, University of Manchester, collaborated with Prof. Charlie C.L. Wang.
-I obtained my bachelor degree from Information and Computing Science at Dalian University of Technology in June 2010, 
-and doctor degree from computational mathematics at Dalian University of Technology in June 2016, 
+I am currently an associate professor in Dalian University of Technology,
+ and a PDRA in the University of Manchester, supervised by Prof. Charlie C.L. Wang.
+I obtained my bachelor (2010) and doctoral (2016) degree at Dalian University of Technology, 
 supervised by Prof. Xiuping Liu.
 From Sept. 2011 to June 2014, I visited the Zhejiang University and University of Science and Technology of 
 China, supervised by Prof. Ligang Liu. 
@@ -31,8 +30,9 @@ Education
 
 Research Experience
 ======
-1. 2012.03~2014.06 University of Science and Technology of China,   Vistor
-1. 2014.10~2015.10 RWTH Aachen University,                          Visitor
+1. 2011.09~2012.03 Zhejiang University,                             Student visitor
+1. 2012.03~2014.06 University of Science and Technology of China,   Student vistor
+1. 2014.10~2015.10 RWTH Aachen University,                          Student visitor
 1. 2016.06~2021.12 Dalian University of Technology,                 Lecturer
 1. 2016.07~2020.11 Dalian University of Technology,                 PosDoc
 1. 2018.04~2020.05 Delft University of Technology,                  Leadingfellow postdoc(Supported by Marie Curie Funding)
