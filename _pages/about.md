@@ -13,16 +13,16 @@ I am currently an associate professor in School of Mathematical Sciences, Dalian
 I obtained my bachelor degree from Information and Computing Science at Dalian University of Technology in June 2010, 
 and doctor degree from computational mathematics at Dalian University of Technology in June 2016, 
 supervised by Prof. Xiuping Liu.
-From Sept. 2011 to Mar. 2012, I spent half a year visiting the Applied Mathematics in the Department 
-of Mathematics at Zhejiang University, under the supervison of Prof. Ligang Liu. From Mar. 2012 to June 2014, 
-I spent half and two years visiting the Graphics&Geometric Computing Laboratory in School of Mathematical 
-Sciences at University of Science and Technology of China, under the supervision of Prof. Ligang Liu. 
-From Oct. 2014 to Oct. 2015, I spent one year visiting the Computer Graphics & Multimedia Lab at RWTH 
-Aachen University, under the supervision of Prof. Leif Kobbelt. Supported by Marie Sklodowska Curia 
-LEaDing Fellows Postdocs Programme, from April 2018 I spent two years and two months in Delft University 
-of Technology, Department of Design Engineering, co-supervised by Prof. Jun Wu, Charlie C.L. Wang, and 
-Fred van Keulen. From July 2018 to Nov 2020, I worked as a postdoc researcher in the School of Computer 
-Science and Technology,  Dalian University of Technology, supervised by Prof. Baocai Yin.
+From Sept. 2011 to June 2014, I visited the Zhejiang University and University of Science and Technology of 
+China, supervised by Prof. Ligang Liu. 
+From Oct. 2014 to Oct. 2015, I visited the Computer Graphics & Multimedia Lab at RWTH 
+Aachen University, supervised by Prof. Leif Kobbelt. Supported by Marie Sklodowska Curia 
+LEaDing Fellows Postdocs Programme, I spent two years and two months worked in the Delft University 
+of Technology, co-supervised by Prof. Jun Wu, Charlie C.L. Wang, and 
+Fred van Keulen. From July 2018 to Nov 2020, I worked as a postdoc researcher at Dalian University of 
+Technology, supervised by Prof. Baocai Yin. One of my work received the International Society of 
+Structural and Multidisciplinary Optimization (ISSMO)/ Springer prize, and the other work received the 
+GDC 2021 Best Paper Award. 
 
 Education
 ======
@@ -35,7 +35,7 @@ Research Experience
 1. 2014.10~2015.10 RWTH Aachen University,                          Visitor
 1. 2016.06~2021.12 Dalian University of Technology,                 Lecturer
 1. 2016.07~2020.11 Dalian University of Technology,                 PosDoc
-1. 2018.04~2020.05 Delft University of Technology,                  Leadingfellow postdoc
+1. 2018.04~2020.05 Delft University of Technology,                  Leadingfellow postdoc(Supported by Marie Curie Funding)
 1. 2021.12~now     Dalian University of Technology,                 Associate professor
 1. 2022.11~now     The University of Manchester,                    PDRA
 
