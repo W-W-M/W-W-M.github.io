@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently and a PDRA at the University of Manchester, supervised by Prof. Charlie C.L. Wang.
+I am currently a PDRA at the University of Manchester, supervised by Prof. Charlie C.L. Wang.
 I was an associate professor at Dalian University of Technology. 
 I obtained my bachelor (2010) and doctoral (2016) degree at Dalian University of Technology, 
 supervised by Prof. Xiuping Liu.
@@ -19,9 +19,9 @@ Aachen University, supervised by Prof. Leif Kobbelt. Supported by Marie Sklodows
 LEaDing Fellows Postdocs Programme, I spent two years and two months worked in the Delft University 
 of Technology, co-supervised by Prof. Jun Wu, Charlie C.L. Wang, and 
 Fred van Keulen. From July 2018 to Nov 2020, I worked as a postdoc researcher at Dalian University of 
-Technology, supervised by Prof. Baocai Yin. One of my work received the International Society of 
-Structural and Multidisciplinary Optimization (ISSMO)/ Springer prize, and the other work received the 
-GDC 2021 Best Paper Award. 
+Technology, supervised by Prof. Baocai Yin. My research works were received the International Society of 
+Structural and Multidisciplinary Optimization (ISSMO)/ Springer prize, the 
+GDC 2021 Best Paper Award, and the first Test-of-Time Award of Siggraph Asia (2023), etc. 
 
 Education
 ======
