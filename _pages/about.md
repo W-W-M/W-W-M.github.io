@@ -18,7 +18,7 @@ From Oct. 2014 to Oct. 2015, I visited the Computer Graphics & Multimedia Lab at
 Aachen University, supervised by Prof. Leif Kobbelt. Supported by Marie Sklodowska Curia 
 LEaDing Fellows Postdocs Programme, I spent two years and two months worked in the Delft University 
 of Technology, co-supervised by Prof. Jun Wu, Charlie C.L. Wang, and 
-Fred van Keulen. From July 2018 to Nov 2020, I worked as a postdoc researcher at Dalian University of 
+Fred van Keulen. From July 2016 to Nov 2020, I worked as a postdoc researcher at Dalian University of 
 Technology, supervised by Prof. Baocai Yin. My research works were received the International Society of 
 Structural and Multidisciplinary Optimization (ISSMO)/ Springer prize, the 
 GDC 2021 Best Paper Award, and the first Test-of-Time Award of Siggraph Asia (2023), etc. 
