@@ -103,9 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-6289-0094"
   pinterest        :
   soundcloud       :
+  SCOPUS           : "https://www.scopus.com/authid/detail.uri?authorId=57142846700"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -115,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Webofscience     : "https://www.webofscience.com/wos/op/publications/summary"
 
 
 # Reading Files
