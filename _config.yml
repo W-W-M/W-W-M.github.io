@@ -11,9 +11,9 @@ title                    : "Weiming Wang / Dr."
 title_separator          : "-"
 name                     : &name "Weiming Wang"
 description              : &description "personal description"
-url                      : "https://weiming-wang.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://w-w-m.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Weiming-Wang/Weiming-Wang.github.io"
+repository               : "W-W-M/W-W-M.github.io" #"Weiming-Wang/Weiming-Wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
