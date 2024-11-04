@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Professor at Nanjing Unviersity of Science and Technology. 
 I was an associate professor at Dalian University of Technology. 
-I obtained my bachelor (2010) and doctoral (2016) degree at Dalian University of Technology, 
+I obtained my bachelor and doctoral degrees at Dalian University of Technology, 
 supervised by Prof. Xiuping Liu.
 I visited the Zhejiang University and the University of Science and Technology of 
 China (supervised by Prof. Ligang Liu), and the Computer Graphics & Multimedia Lab at RWTH 
