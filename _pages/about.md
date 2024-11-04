@@ -12,15 +12,15 @@ I am currently a Professor at Nanjing Unviersity of Science and Technology.
 I was an associate professor at Dalian University of Technology. 
 I obtained my bachelor (2010) and doctoral (2016) degree at Dalian University of Technology, 
 supervised by Prof. Xiuping Liu.
-From Sept. 2011 to June 2014, I visited the Zhejiang University and University of Science and Technology of 
-China, supervised by Prof. Ligang Liu. 
-From Oct. 2014 to Oct. 2015, I visited the Computer Graphics & Multimedia Lab at RWTH 
-Aachen University, supervised by Prof. Leif Kobbelt. Supported by Marie Sklodowska Curia 
-LEaDing Fellows Postdocs Programme, I spent two years and two months worked at the Delft University 
-of Technology, co-supervised by Prof. Jun Wu, Charlie C.L. Wang, and 
-Fred van Keulen. From July 2016 to Nov 2020, I was a postdoc researcher at Dalian University of 
-Technology, supervised by Prof. Baocai Yin. From Nov. 2022 to Oct. 2024, I was a PDRA at the University of Manchester, 
-supervised by Prof. Charlie C.L. Wang. My research works were received the International Society of 
+I visited the Zhejiang University and the University of Science and Technology of 
+China (supervised by Prof. Ligang Liu), and the Computer Graphics & Multimedia Lab at RWTH 
+Aachen University (supervised by Prof. Leif Kobbelt). I was a postdoc researcher at Dalian University of 
+Technology (supervised by Prof. Baocai Yin), a postdoc researcher supported by Marie Sklodowska Curia 
+LEaDing Fellows Postdocs Programme at the Delft University 
+of Technology (co-supervised by Prof. Jun Wu, Charlie C.L. Wang, and 
+Fred van Keulen) and, a PDRA at the University of Manchester (supervised by Prof. Charlie C.L. Wang). 
+
+My research works were received the International Society of 
 Structural and Multidisciplinary Optimization (ISSMO)/ Springer prize, the 
 GDC 2021 Best Paper Award, and the first Test-of-Time Award of Siggraph Asia (2023), etc. 
 
