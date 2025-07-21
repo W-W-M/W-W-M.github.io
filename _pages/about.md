@@ -43,7 +43,7 @@ Research Experience
 
 Research Interests
 ======
-1. AI for Engineering 
+1. AI for Engineering: Intelligent Design and Optimization 
 1. Neural Network based Optimization
 1. Computer Graphics and Digital Geometry Processing
 1. Computational Design, Optimization, and Fabrication
