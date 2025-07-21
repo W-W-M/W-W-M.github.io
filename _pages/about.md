@@ -32,7 +32,7 @@ Education
 Research Experience
 ======
 1. 2011.09~2012.03 Zhejiang University,                             Student visitor
-1. 2012.03~2014.06 University of Science and Technology of China,   Student vistor
+1. 2012.03~2014.06 University of Science and Technology of China,   Student visitor
 1. 2014.10~2015.10 RWTH Aachen University,                          Student visitor
 1. 2016.06~2021.12 Dalian University of Technology,                 Lecturer
 1. 2016.07~2020.11 Dalian University of Technology,                 PosDoc
@@ -43,7 +43,7 @@ Research Experience
 
 Research Interests
 ======
-1. Computer Graphics
-1. Digital Geometry Processing
+1. AI for Engineering 
+1. Neural Network based Optimization
+1. Computer Graphics and Digital Geometry Processing
 1. Computational Design, Optimization, and Fabrication
-1. Structural and Topology Optimization
