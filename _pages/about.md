@@ -47,3 +47,9 @@ Research Interests
 1. Neural Network based Optimization
 1. Computer Graphics and Digital Geometry Processing
 1. Computational Design, Optimization, and Fabrication
+
+Notes
+======
+We are organizing a special issue in Inventions entitled “Research Advances in Computational Fabrication and Structural Optimization.”
+Please check the link below for more details. We would be very pleased if you could consider submitting your work to this special issue.
+https://www.mdpi.com/journal/inventions/special_issues/66SI1ZFO8N
